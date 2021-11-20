@@ -1,0 +1,23 @@
+input{
+    margin: 38px 0px;
+}
+button{
+     margin-top:15px;
+     transition: all.5s;
+}
+button:hover{
+    background-color:rgb(250, 143, 227) ;
+    color: white;
+    transform: scale(1.2);
+}
+body{
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+}
+
+#div{
+    background-color: white;
+    color: rgb(219, 21, 104);
+    padding: 15px;
+    margin: 12px 100px;
+}
